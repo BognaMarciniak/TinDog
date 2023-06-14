@@ -1,2 +1,2 @@
 # TinDog
-My first portfolio project! Tinder for dogs because why not ;)
+My first portfolio project using bootstrap! Tinder for dogs because why not ;)
